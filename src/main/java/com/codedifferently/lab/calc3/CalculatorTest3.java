@@ -7,6 +7,22 @@ public class CalculatorTest3 {
 
         //Use the Calculator object and arguments supplied to findTotal()
         //to print the total for each person
+        calc.findTotal(10, "Jeff" );
+        calc.findTotal(12, " Kianna");
+        calc.findTotal(9, "Helen");
+
+        calc.findTotal(8, "Ann");
+
+        calc.findTotal(7, "Trisha");
+
+        calc.findTotal(15, "Anh");
+
+        calc.findTotal(12, "Eniola");
+
+        calc.findTotal(30, "Ivy");
+
+
+
 
 
 
